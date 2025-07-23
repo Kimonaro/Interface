@@ -2799,7 +2799,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -237.71, y: 196.29}
+  m_AnchoredPosition: {x: -237.71002, y: 196.29}
   m_SizeDelta: {x: -475.43, y: -392.58}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1603981312
@@ -2852,9 +2852,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73bf194cbe10bc747a9e96b552cc4c4e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sliderVidasRestantes: {fileID: 0}
-  SliderEnergiaRestantes: {fileID: 0}
-  jogador: {fileID: 0}
+  sliderVidasRestantes: {fileID: 1780959379}
+  SliderEnergiaRestantes: {fileID: 1078416199}
+  jogador: {fileID: 447257759}
   vidasRestantes: 0
   energiaRestantes: 0
 --- !u!1 &1695855295
